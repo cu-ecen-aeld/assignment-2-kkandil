@@ -1,0 +1,7 @@
+khaled -p ./test/temp/temp.txt
+khaled ./test/temp/temp.txt
+khaled -p ./test/temp/temp.txt
+khaled -p ./test/temp/temp.txt
+khaled -p ./test/temp/temp.txt
+khaled -p ./test/temp.txt
+khaled -p ./test/temp
