@@ -21,6 +21,7 @@ then
 	exit 1
 fi
 
+
 numberOfFiles=$(find $filesdir -type f | wc -l)
 numberOfLines=$(grep -R $searchstr $filesdir | wc -l)
  
